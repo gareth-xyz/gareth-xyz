@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## I'm Gareth - full stack developer.
 
-I've been working in the financial services for 3 years since I graduated, building low latency, large scale pricing services. I'm now focused on learning and building blockchain and web3. 
+I've been working in the financial services for 3 years since I graduated, building low latency, large scale pricing services.
 
-You can check out my website where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on.
+🌱 I'm now focused on learning and building blockchain and web3. 
 
-- 🌱 I’m currently learning blockchain, web3, and ThreeJS.
+You can check [out my website](https://garethv.xyz/) where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on.
