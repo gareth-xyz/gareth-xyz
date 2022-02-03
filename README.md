@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm Gareth - full stack developer.
 
-I've been working in the financial services for 3 years since I graduated, building large scale, low latency trading applications.
+I've been working in the financial services for 3 years, building large scale, low latency trading systems and applications.
 
 🌱 I'm now focused on learning and building blockchain and web3. 
 
