@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 I've been working in the financial services for 3 years, building large scale, low latency trading systems and applications.
 
-🌱 I'm now focused on learning and building blockchain and web3. 
+🌱 I'm now focused on learning blockchain development, or more specifically, smart contracts in solidity. 
 
 You can check [out my website](https://garethv.xyz/) where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on.
