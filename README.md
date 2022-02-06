@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm Gareth
 
-I'm a developer with interests in build fullstack web applications, blockchain, game dev, 3d programming, and the creative experience of technology. I've been working in the financial services for 4 years, building large scale, low latency trading systems and applications.
+I'm a developer with interests in building fullstack web applications, blockchain, game dev, 3d programming, and the creative experience of technology. I've been working in the financial services for 4 years, building large scale, low latency trading systems and applications.
 
 🌱 I'm currently focused on learning blockchain and writing smart contracts in solidity. 
 
