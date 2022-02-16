@@ -22,4 +22,4 @@ I'm a developer with interests in fullstack web apps, blockchain, game dev, 3d p
 
 🌱 I'm currently learning blockchain and exploring smart contracts in Solidity. 
 
-You can check [out my website](https://garethv.xyz/) where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on.
+You can check [out my website](https://garethv.xyz/) where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on. You can get in touch with me via email at <gareth@garethv.xyz>.
