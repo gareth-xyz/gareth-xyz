@@ -22,7 +22,7 @@ I'm a developer with interests in fullstack web apps, blockchain, game dev, 3d p
 
 🌱 In 2022 i'm learning:
 - solidity and smart contract development
-- to build web3 applications
+- web3
 - algorithms
 - threeJS / 3d programming
 
