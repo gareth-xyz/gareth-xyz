@@ -23,7 +23,7 @@ I'm a developer with interests in fullstack web apps, blockchain, game dev, 3d p
 🌱 In 2022 i'm learning/focusing on:
 - solidity and smart contract development
 - web3
-- algorithms
+- advanced algorithms
 - threeJS / 3d programming
 
 You can check [out my website](https://garethv.xyz/) where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on.
