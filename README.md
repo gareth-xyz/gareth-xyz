@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm a developer with interests in fullstack web apps, blockchain, game dev, 3d programming, and the creative experience of technology. I've been working in the financial services for 4 years, building large scale, low latency trading systems and applications.
 
 🌱 In 2022 i'm learning/focusing on:
-- solidity and smart contract development
+- smart contract development
 - web3
 - advanced algorithms
 - threeJS / 3d programming
