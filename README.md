@@ -24,4 +24,4 @@ I'm Gareth, a developer with interests in fullstack web applications, blockchain
 
 📫 How to reach me:
 
-You can check [out my website](https://garethv.xyz/) where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on.
+You can check [out my website](https://garethv.xyz/) where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on/am interested in.
