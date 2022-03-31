@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Gareth, a developer with interests in fullstack web applications, blockchain, game development, 3d programming, and the creative experience of technology. I've prev worked in TradFi for ~4 years, building large scale, low latency trading systems and applications. I'm transitioning into Web3, and am excited to contribute to a decentralised future.
+I'm Gareth, a developer with interests in fullstack web applications, blockchain, game development, 3d programming, and the creative experience of technology. I've previously worked in TradFi for ~4 years, building large scale, low latency trading systems and applications. I'm transitioning into Web3, and am excited to contribute to a decentralised future.
 
 🌱 In 2022 i'm focusing on:
 - smart contract development
