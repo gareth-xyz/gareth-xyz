@@ -21,7 +21,6 @@ I'm Gareth, a developer with interests in fullstack web applications, blockchain
 - smart contracts
 - MEV
 - advanced algorithms
-- threeJS / 3d 
 
 📫 How to reach me:
 
