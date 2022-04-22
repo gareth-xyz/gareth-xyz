@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm Gareth, [@aave](https://twitter.com/AaveAave), prev [@jpmorgan](https://www.jpmorgan.com/) building low latency trading stuff.
 
-- Blockchain, web3, decentralisation, defi. 
+- blockchain / web3 / decentralisation / defi / solidity
 
 📫 How to reach me:
 
