@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Gareth, a developer with interests in fullstack web applications, blockchain, 3d programming, and the creative experience of technology. I've previously worked in TradFi for ~4 years, building large scale, low latency trading systems and applications. I'm transitioning into Web3, and am excited to contribute to a decentralised future!
+I'm Gareth, [@aave](https://twitter.com/AaveAave), prev ~4 years [@jpmorgan](https://www.jpmorgan.com/) building low latency trading stuff.
 
-🌱 In 2022 i'm focusing on:
-- web3
-- smart contracts
-- MEV
-- advanced algorithms
+- Blockchain, web3, decentralisation, defi. 
 
 📫 How to reach me:
 
