@@ -18,10 +18,8 @@ I'm Gareth, developer at [Aave](https://twitter.com/AaveAave) building web3 stuf
 
 🔭 I’m currently focusing on:
 
-- web3
-- blockchain
-- defi
-- advanced algos
+- web3 / blockchain / defi
+- EVM + solidity
 - some 3d stuff
 
 📫 How to reach me:
