@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Gareth, developer at [Aave](https://twitter.com/AaveAave) doing web3 stuff, I was previously at [JP Morgan](https://www.jpmorgan.com/) building low latency trading and quant systems.
+I'm Gareth, developer at [Aave](https://twitter.com/AaveAave) building web3 stuff, I was previously at [JP Morgan](https://www.jpmorgan.com/) building low latency trading and quant systems.
 
 🔭 I’m currently focusing on:
 
