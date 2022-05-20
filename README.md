@@ -20,7 +20,7 @@ I'm Gareth, developer at [Aave](https://twitter.com/AaveAave) building web3 stuf
 
 - web3 / blockchain / defi
 - EVM + solidity
-- some 3d stuff
+- some 3d animation stuff
 
 📫 How to reach me:
 
