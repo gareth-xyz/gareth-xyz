@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 
 I'm Gareth, developer at [Aave](https://twitter.com/AaveAave) building web3 stuff, I was previously at [JP Morgan](https://www.jpmorgan.com/) building low latency trading and quant systems.
 
-🔭 I’m currently focusing on:
+I’m currently working on:
 
 - web3 / blockchain / defi
 - EVM + solidity
 - some 3d animation stuff
-
-📫 How to reach me:
 
 You can check [out my website](https://garethv.xyz/) where you can get in contact with me or [follow me on Twitter](https://twitter.com/gareth_xyz/), where I actively share what I'm working on/am interested in.
 
