@@ -3,5 +3,5 @@ Developer at [Aave](https://twitter.com/AaveAave) building web3 stuff, previousl
 I like web3, blockchain, smart contracts, and creative technology.. hit me up if you want to collab or share ideas =]
 
 🌐 [Website](https://garethv.xyz/)
-🐦 [Twitter](https://twitter.com/garethcodes/)
+🐦 [Twitter](https://twitter.com/garethveale/)
 🌿 [Lens](https://www.lensfrens.xyz/gareth.lens)
