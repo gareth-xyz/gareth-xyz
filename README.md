@@ -1,4 +1,4 @@
-Developer at [Aave](https://twitter.com/AaveAave) building web3 stuff, I was previously at [JP Morgan](https://www.jpmorgan.com/) doing low latency trading and quant things.
+Developer at [Aave](https://twitter.com/AaveAave) building web3 stuff, previously at [JP Morgan](https://www.jpmorgan.com/) doing low latency trading and quant things.
 
 
 🌐 [Website](https://garethv.xyz/)
