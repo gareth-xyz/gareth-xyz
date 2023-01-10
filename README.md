@@ -4,6 +4,6 @@ I like web3, blockchain, smart contracts, low level programming, and 3d stuff! h
 
 
 
-🌐 [Website](https://garethv.xyz/)
-🐦 [Twitter](https://twitter.com/garethveale/)
+🌐 [Website](https://garethlol.dev/)
+🐦 [Twitter](https://twitter.com/gareth_______/)
 🌿 [Lens](https://www.lensfrens.xyz/gareth.lens)
