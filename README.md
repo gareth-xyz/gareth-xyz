@@ -3,4 +3,4 @@ Developer at [Aave](https://twitter.com/AaveAave) building web3 stuff, previousl
 
 🌐 [Website](https://gareth-v.com)
 🐦 [Twitter](https://twitter.com/gareth_______/)
-🌿 [Lens](https://www.lensfrens.xyz/gareth.lens)
+🌿 [Lens](https://lenster.xyz/u/gareth)
